@@ -1,0 +1,54 @@
+.col-4 {
+    border: 1.5px solid rgba(42, 119, 149, 0.867);
+    height: 150px;
+    width: 150px;
+    margin: 5px;
+    font-size: 50px;
+    text-align: center;
+    padding-top: 30px;
+    background-color: antiquewhite;
+
+}
+
+.col-6 {
+    background-color: antiquewhite;
+    width: 50%;
+    height: 50%;
+    border: 2px solid rgba(42, 119, 149, 0.867);
+    color: rgba(42, 119, 149, 0.867);
+}
+
+
+#posicao {
+    text-align: center;
+    font-size: 25px;
+
+}
+
+.t1 {
+    justify-content: center;
+    display: flex;
+
+    size: 50%;
+}
+
+
+.jogo {
+    align-items: center;
+    justify-content: center;
+    display: flex;
+    width: 100%;
+    height: 100%;
+    margin: 20px;
+    color: rgba(23, 74, 118, 0.727);
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+
+body {
+    justify-items: center;
+    background-image: url('https://cdn.shopify.com/s/files/1/0285/1316/products/w0263_1s_Nautical-Waves-Wallpaper-for-Walls-Waves-of-Chic_Repeating-Pattern-Sample-1.jpg?v=1604091534');
+}
+
+.container {
+    text-align: center;
+}
